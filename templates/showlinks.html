@@ -1,0 +1,34 @@
+
+{% macro show_links(user) %}
+<ul class="nav justify-content-center bg-dark p-3">
+    <li class="nav-item">
+      <a class="nav-link active text-light" aria-current="page" href="{{ url_for('index') }}">Beranda</a>
+    </li>
+    {% if user %}
+    <li class="nav-item">
+        <a class="nav-link text-light" href="{{ url_for('kuis') }}">Kuis</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light" href="{{ url_for('leaderboard') }}">Leaderboard</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light" href="{{ url_for('logout') }}">Logout</a>
+      </li>
+    {% else %}
+    <li class="nav-item">
+        <a class="nav-link text-light" href="{{ url_for('register') }}">Register</a>
+      </li>
+    <li class="nav-item">
+      <a class="nav-link text-light" href="{{ url_for('login') }}">Login</a>
+    </li>
+    {% endif %}
+    
+    {% if user %}
+    <li class="nav-item">
+        <a class="nav-link text-light" href="#">User: {{ user["name"] }}</a>
+      </li>
+    {% endif %}
+  </ul>
+
+
+  {% endmacro %}

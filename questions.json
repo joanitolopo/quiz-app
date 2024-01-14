@@ -1,0 +1,226 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Apa itu kecerdasan buatan (AI) dalam konteks Python?",
+      "options": [
+        "Sebuah bahasa pemrograman",
+        "Teknologi pengembangan web",
+        "Simulasi kecerdasan manusia oleh mesin",
+        "Sebuah jenis database"
+      ],
+      "correct_options": [2]
+    },
+    {
+      "id": 2,
+      "question_text": "Apa peran utama Python dalam pengembangan kecerdasan buatan?",
+      "options": [
+        "Hanya digunakan untuk pengembangan web",
+        "Tidak memiliki peran dalam kecerdasan buatan",
+        "Digunakan sebagai alat utama untuk pengembangan kecerdasan buatan",
+        "Hanya digunakan untuk analisis data"
+      ],
+      "correct_options": [2]
+    },
+    {
+      "id": 3,
+      "question_text": "Apa yang dimaksud dengan machine learning dalam konteks Python?",
+      "options": [
+        "Proses pembuatan mesin fisik",
+        "Teknik untuk membuat kopi otomatis",
+        "Cabang kecerdasan buatan yang fokus pada pengembangan model prediktif",
+        "Pemodelan matematika untuk kecerdasan buatan"
+      ],
+      "correct_options": [3]
+    },
+    {
+      "id": 4,
+      "question_text": "Modul atau pustaka Python apa yang umumnya digunakan untuk machine learning?",
+      "options": [
+        "TensorFlow",
+        "Django",
+        "Flask",
+        "PyQt"
+      ],
+      "correct_options": [1]
+    },
+    {
+      "id": 5,
+      "question_text": "Apa keuntungan menggunakan Python dalam pengembangan kecerdasan buatan?",
+      "options": [
+        "Kinerja yang buruk",
+        "Kurangnya dukungan komunitas",
+        "Banyaknya pilihan pustaka dan modul",
+        "Tidak cocok untuk pengembangan kecerdasan buatan"
+      ],
+      "correct_options": [3]
+    },
+    {
+        "id": 6,
+        "question_text": "Apa yang dimaksud dengan deep learning dalam konteks kecerdasan buatan?",
+        "options": [
+          "Pendalaman pengetahuan manusia",
+          "Pembelajaran mesin dengan menggunakan jaringan saraf tiruan",
+          "Pendalaman pengetahuan komputer",
+          "Pembelajaran mesin tanpa penggunaan komputer"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 7,
+        "question_text": "Apa perbedaan antara kecerdasan buatan dan machine learning?",
+        "options": [
+          "Tidak ada perbedaan, keduanya sama",
+          "Machine learning adalah bagian dari kecerdasan buatan",
+          "Kecerdasan buatan adalah bagian dari machine learning",
+          "Keduanya tidak berhubungan"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 8,
+        "question_text": "Bagaimana Python mendukung pengolahan bahasa alami (NLP) dalam konteks kecerdasan buatan?",
+        "options": [
+          "Dengan tidak mendukung NLP",
+          "Menggunakan modul NLTK",
+          "Menggunakan modul Flask",
+          "Menggunakan modul Django"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 9,
+        "question_text": "Apakah Python open-source dan bagaimana hal ini memengaruhi pengembangan kecerdasan buatan?",
+        "options": [
+          "Python tidak open-source",
+          "Python open-source, tetapi tidak memengaruhi pengembangan kecerdasan buatan",
+          "Python open-source dan mendukung pengembangan kecerdasan buatan",
+          "Python hanya digunakan dalam pengembangan kecerdasan buatan tertentu"
+        ],
+        "correct_options": [3]
+      },
+      {
+        "id": 10,
+        "question_text": "Apa yang dimaksud dengan reinforcement learning dalam konteks kecerdasan buatan?",
+        "options": [
+          "Pendekatan pembelajaran mesin yang melibatkan pemahaman bahasa",
+          "Teknik pembelajaran mesin yang mengandalkan reward dan punishment",
+          "Metode kecerdasan buatan yang hanya menggunakan logika",
+          "Reinforcement learning tidak ada hubungannya dengan kecerdasan buatan"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 11,
+        "question_text": "Apa yang dimaksud dengan pre-processing data dalam konteks kecerdasan buatan?",
+        "options": [
+          "Mengganti data dengan data palsu",
+          "Menyusun data menjadi format yang sesuai",
+          "Menghilangkan data secara acak",
+          "Mengabaikan data yang tidak relevan"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 12,
+        "question_text": "Apa peran Python dalam eksplorasi dan visualisasi data untuk kecerdasan buatan?",
+        "options": [
+          "Hanya digunakan untuk menyimpan data",
+          "Tidak memiliki peran dalam eksplorasi dan visualisasi data",
+          "Digunakan untuk menganalisis data, tetapi bukan untuk visualisasi",
+          "Digunakan untuk eksplorasi, analisis, dan visualisasi data"
+        ],
+        "correct_options": [4]
+      },
+      {
+        "id": 13,
+        "question_text": "Bagaimana penggunaan algoritma k-means dalam kecerdasan buatan?",
+        "options": [
+          "Menghitung rata-rata data",
+          "Mengelompokkan data menjadi k kelompok",
+          "Menormalisasi data",
+          "Menentukan outlier dalam data"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 14,
+        "question_text": "Apa manfaat penggunaan teknik ensemble dalam machine learning dengan Python?",
+        "options": [
+          "Mengurangi kompleksitas model",
+          "Menghindari penggunaan Python",
+          "Tidak ada manfaat dalam penggunaan teknik ensemble",
+          "Meningkatkan akurasi dan kinerja model"
+        ],
+        "correct_options": [4]
+      },
+      {
+        "id": 15,
+        "question_text": "Bagaimana Python mendukung pengembangan model kecerdasan buatan yang dapat diakses secara online?",
+        "options": [
+          "Dengan menggunakan modul TensorFlow",
+          "Tidak ada cara untuk mengakses model secara online dengan Python",
+          "Dengan menggunakan modul Flask atau Django",
+          "Hanya dapat diakses secara offline"
+        ],
+        "correct_options": [3]
+      },
+      {
+        "id": 16,
+        "question_text": "Apa yang dimaksud dengan transfer learning dalam konteks kecerdasan buatan?",
+        "options": [
+          "Mentransfer model kecerdasan buatan ke perangkat lain",
+          "Menggunakan pengetahuan dari satu tugas untuk mempermudah tugas lain",
+          "Menghentikan proses pembelajaran mesin",
+          "Tidak ada hubungannya dengan kecerdasan buatan"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 17,
+        "question_text": "Apakah kecerdasan buatan hanya terbatas pada pengolahan data numerik?",
+        "options": [
+          "Ya, kecerdasan buatan hanya bekerja dengan data numerik",
+          "Tidak, kecerdasan buatan dapat memproses data dalam berbagai bentuk termasuk teks dan gambar",
+          "Kecerdasan buatan hanya bekerja dengan data teks",
+          "Kecerdasan buatan hanya bekerja dengan data gambar"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 18,
+        "question_text": "Bagaimana penggunaan teknik dropout dalam model deep learning?",
+        "options": [
+          "Menghapus beberapa data pada awal proses pembelajaran",
+          "Menghapus beberapa neuron secara acak selama pelatihan",
+          "Menghentikan pelatihan model secara tiba-tiba",
+          "Menambahkan data baru ke dalam model"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 19,
+        "question_text": "Apa peran regularisasi dalam konteks kecerdasan buatan?",
+        "options": [
+          "Mempercepat pelatihan model",
+          "Mengurangi kompleksitas model untuk mencegah overfitting",
+          "Menambahkan kebisingan ke dalam data",
+          "Hanya digunakan dalam pengolahan gambar"
+        ],
+        "correct_options": [2]
+      },
+      {
+        "id": 20,
+        "question_text": "Bagaimana teknologi kecerdasan buatan diimplementasikan dalam aplikasi Python yang umum digunakan?",
+        "options": [
+          "Dengan menggunakan modul Flask dan Django",
+          "Hanya dapat diimplementasikan dalam bahasa pemrograman lain",
+          "Dengan membatasi penggunaan Python",
+          "Dengan menggunakan API dan integrasi dengan aplikasi Python"
+        ],
+        "correct_options": [4]
+      }
+  ]
+}
+
+  
